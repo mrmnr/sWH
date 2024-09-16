@@ -14,9 +14,8 @@
 </style>
 </head>
 <body>
-
 <?php include "logincheck.php"; ?>
-<!-- MODALS ... -->
+<!-- MODAL. -->
         <div class="modal edit-category" id="edit-category" tabindex="-1" role="dialog" aria-labelledby="edit-category" aria-hidden="true">
             <div class="modal-dialog modal-md">
                 <div class="modal-content">
@@ -62,6 +61,7 @@
                 </div>
             </div>
         </div>
+<!-- ... MODALS -->
 <!-- ... MODALS -->
 
 	<?php include 'includes/header.php';?> 

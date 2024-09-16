@@ -203,6 +203,7 @@ if(isset($_GET['delete'])){
 			$('#checkout-modal').modal('show');
 		});
 //function to fire when .next-step button is clicked
+//new  commit
 		$('.next-step').click(function(){
 				$('#step1').css('display', 'none');
 				$('.next-step').css('display', 'none');
